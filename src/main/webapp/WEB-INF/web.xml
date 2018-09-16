@@ -15,7 +15,7 @@
     </context-param>
     <context-param>
         <param-name>pass</param-name>
-        <param-value>lifecare@111</param-value>
+        <param-value>lifecare@1114</param-value>
     </context-param>
     <servlet>
         <servlet-name>EmailSendingServlet</servlet-name>
